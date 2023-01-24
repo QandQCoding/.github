@@ -1,4 +1,5 @@
-<p align="center"><a href="https://www.qandqcoding.de/" target="_blank"><img src="https://www.qandqcoding.de/images/logo-default-200x34.png" width="200"></a></p>
+<p align="center"><a href="https://www.qandqcoding.de/" target="_blank"><img src="https://www.qandqcoding.de/images/logo-default-200x34.png" width="200"><img src="![Code](https://user-images.githubusercontent.com/76977433/214325751-bc167ee4-d892-430e-a7b4-6ea1e52d78b7.png)
+" width="200"></a></p>
 
 <!--
 
