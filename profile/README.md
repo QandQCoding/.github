@@ -2,5 +2,4 @@
 
 
 
-Here are some ideas to get you started:**
-<img src="https://media.discordapp.net/attachments/711927299515088896/1067455740148711504/Code.png?width=150&height=150" width="150"
+<a href="https://www.qandqcoding.de/" target="_blank"><img src="https://media.discordapp.net/attachments/711927299515088896/1067455740148711504/Code.png?width=150&height=150" width="150"></a>
