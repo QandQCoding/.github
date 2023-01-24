@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.qandqcoding.de/" target="_blank"><img src="[https://www.whatthehost.de/assets/img/logo2.png](https://www.qandqcoding.de/index.php)" width="400"></a></p>
+<p align="center"><a href="https://www.qandqcoding.de/" target="_blank"><img src="[https://www.qandqcoding.de/index.php](https://www.qandqcoding.de/index.php)" width="400"></a></p>
 
 <!--
 
