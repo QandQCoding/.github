@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.qandqcoding.de/" target="_blank"><img src="https://www.qandqcoding.de/images/logo-default-200x34.png" width="200"><img src="![Code](https://user-images.githubusercontent.com/76977433/214325751-bc167ee4-d892-430e-a7b4-6ea1e52d78b7.png)
+<p align="center"><a href="https://www.qandqcoding.de/" target="_blank"><img src="https://www.qandqcoding.de/images/logo-default-200x34.png" width="200"><img src="https://media.discordapp.net/attachments/711927299515088896/1067455740148711504/Code.png?width=671&height=671
 " width="200"></a></p>
 
 <!--
