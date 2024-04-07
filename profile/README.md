@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.qandqcoding.de/" target="_blank">
-    <img src="https://media.discordapp.net/attachments/711927299515088896/1067455740148711504/Code.png?width=70&height=70" width="100">
+    <img src="https://cdn.discordapp.com/attachments/711927299515088896/1226349420472307752/Komp_1_3000.png?ex=662471e6&is=6611fce6&hm=306917cddd9ab544b469f727ed035290ad6ad7cfc70e605f2c6442eb614079ad">
   </a>
 </p>
 
