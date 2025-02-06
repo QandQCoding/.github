@@ -12,5 +12,5 @@ We encourage contributions and ideas! Join the community and contribute to impro
 - Submit **pull requests** for bug fixes or new features.
 
 ## 🔗 Useful Links
-- 🌐 **Website**: [QandQ Coding Website](https://www.qandqcoding.de)
+- 🌐 **Website**: [QandQ Coding Website](https://www.qandqservices.de)
 - 💬 **Discord**: [Join our Discord Community](https://discord.gg/aKHn5KtRbE)
